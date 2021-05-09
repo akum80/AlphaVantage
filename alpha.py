@@ -7,7 +7,7 @@ import csv
 from io import BytesIO
 
 API_HOST_NAME = 'www.alphavantage.co'
-API_KEY  = 'N4BD8SYEZTYHTC0E'
+API_KEY  = 'demo'
 INTERVALS = [
     '1min',
     '5min',
